@@ -1,7 +1,7 @@
 {
   "name": "GOATVRE \u00b7 Greatest of All Time Vacation Rental Experience",
   "short_name": "GOATVRE",
-  "description": "Vacation rentals with service fees 40% lower than Airbnb.",
+  "description": "Vacation rentals with service fees 40% lower than other major rental sites.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
